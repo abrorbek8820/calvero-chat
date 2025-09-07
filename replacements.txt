@@ -1,0 +1,4 @@
+# Har bir bo'lak: original => REPLACED
+PASSWORD=.+==>PASSWORD=REDACTED
+sk_live_[0-9A-Za-z]+=>sk_live_REDACTED
+service_role\.[0-9A-Za-z\-_\.]+=>service_role_REDACTED
